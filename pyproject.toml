@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "log-visualization-starter"
+version = "0.1.0"
+description = "No-dependency log metric parser with CSV summaries and SVG plots"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Photon101" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+log-visualization = "log_visualization_starter.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

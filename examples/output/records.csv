@@ -1,0 +1,17 @@
+source,timestamp,metric,value
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:00:00Z,step,1
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:00:00Z,pressure,0.5
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:00:00Z,velocity,1.1
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:00:00Z,residual,0.1
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:01:00Z,step,2
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:01:00Z,pressure,0.75
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:01:00Z,velocity,1.18
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:01:00Z,residual,0.05
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:02:00Z,step,3
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:02:00Z,pressure,0.7
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:02:00Z,velocity,1.24
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:02:00Z,residual,0.025
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:03:00Z,step,4
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:03:00Z,pressure,0.68
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:03:00Z,velocity,1.28
+/home/semy/github/log-visualization-starter/examples/logs/simulation.log,2026-05-01T10:03:00Z,residual,0.013

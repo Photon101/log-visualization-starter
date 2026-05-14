@@ -1,0 +1,5 @@
+2026-05-01T10:00:00Z step=1 pressure=0.50 velocity=1.10 residual=0.100
+2026-05-01T10:01:00Z step=2 pressure=0.75 velocity=1.18 residual=0.050
+2026-05-01T10:02:00Z step=3 pressure=0.70 velocity=1.24 residual=0.025
+2026-05-01T10:03:00Z step=4 pressure=0.68 velocity=1.28 residual=0.013
+

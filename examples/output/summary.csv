@@ -1,0 +1,5 @@
+metric,count,min,max,avg
+pressure,4,0.5,0.75,0.6575
+residual,4,0.013,0.1,0.047
+step,4,1,4,2.5
+velocity,4,1.1,1.28,1.2
